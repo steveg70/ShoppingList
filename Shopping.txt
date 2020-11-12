@@ -1,2 +1,3 @@
 5 Apples
 4 Oranges
+2 Bananas
